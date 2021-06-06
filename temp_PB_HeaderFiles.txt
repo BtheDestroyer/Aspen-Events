@@ -1,0 +1,4 @@
+C:\Users\Bryce Dixon\source\repos\Aspen2\Events\AspenEvents.hpp
+C:\Users\Bryce Dixon\source\repos\Aspen2\Events\framework.hpp
+C:\Users\Bryce Dixon\source\repos\Aspen2\Events\pch.hpp
+C:\Users\Bryce Dixon\source\repos\Aspen2\Events\Event\Event.h
